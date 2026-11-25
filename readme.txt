@@ -2,7 +2,7 @@
 Contributors: aristath
 Tags: blocks, gutenberg blocks, gutenberg, editor
 Requires at least: 5.0
-Tested up to: 6.4
+Tested up to: 7.2
 Stable tag: 1.0.3
 Requires PHP: 5.6
 License: MIT
